@@ -12,7 +12,7 @@
 	<artifactId>project-leyden</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>project-leyden</name>
-	<description>Demo concurrency project for Spring Boot</description>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>25</java.version>
         <main.class>anoop.spring.test.Application</main.class>
